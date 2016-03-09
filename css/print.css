@@ -1,0 +1,7 @@
+@charset "UTF-8";
+html{
+	background: transparent url( ../images/interfaceImages/body-background.png) repeat-x 350px 0px;
+}
+header {
+	background-image: none;
+}
